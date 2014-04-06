@@ -3,7 +3,7 @@ type_to_string
 
 Helper methods for the mirrors and types to represent them as the strings.
 
-'''dart
+```dart
 import "dart:mirrors";
 import "package:type_to_string/type_to_string.dart";
 
@@ -34,9 +34,9 @@ abstract class Foo<T extends num> {
     return a - b;
   }
 }
-'''
+```
 
-'''
+```
 ========
 List<List>
 _GrowableList<List<dynamic>>
@@ -46,4 +46,4 @@ compare(int, int) => int
 ========
 Catch
 (dynamic, StackTrace) => void
-'''
+```
