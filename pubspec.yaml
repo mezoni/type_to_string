@@ -1,0 +1,7 @@
+name: type_to_string
+version: 0.0.1
+author: Andrew Mezoni <andrew.mezoni@gmail.com>
+description: Helper methods for the mirrors and types to represent them as the strings.
+homepage: https://github.com/mezoni/type_to_string
+dev_dependencies:
+  unittest: any
